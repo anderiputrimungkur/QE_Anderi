@@ -1,0 +1,6 @@
+link testrial
+https://anderi.testrail.io/index.php?/suites/view/1&group_by=cases:section_id&group_order=asc&display_deleted_cases=0
+
+email : putrimungkur@gmail.com
+
+Uaername: Anderi Putri Mungkur 
